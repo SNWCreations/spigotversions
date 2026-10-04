@@ -7,3 +7,5 @@ Disallow: /jenkins/login
 
 Disallow: /stash
 Allow: /stash/projects/SPIGOT
+
+Disallow: /nexus/content
